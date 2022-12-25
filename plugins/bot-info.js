@@ -76,7 +76,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 ⮕ ${chats.length} - Total Chats
 
 ===========================
-`.trim(), `./media/botinfo.jpg`, 'https://dineshvalor.github.io/valor', 'sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', null, null, [
+`.trim(), `./media/botinfo.jpg`, 'https://nekopoi.care', 'Nekopoi', null, null, [
 [`ᴏᴡɴᴇʀ`, `${usedPrefix}owner`],
 [`ᴅᴏɴᴀᴛᴇ`, `${usedPrefix}donate`]
 ], m, {asLocation: true})
